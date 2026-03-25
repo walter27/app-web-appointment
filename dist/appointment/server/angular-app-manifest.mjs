@@ -13,16 +13,16 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-JN4ZJL4F.js"
+      "chunk-MVLPHOR6.js"
     ],
     "route": "/calendar"
   }
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 6018, hash: '41373ab557aa4d826897ed9e78c37af67b19bf868304c8864693af0c17e7ca7b', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 1051, hash: '80dc1fe2df8d8c82cec52a2666c0aea8d8a4cc1c82cc972038c68f25f7042671', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'calendar/index.html': {size: 133496, hash: 'bfec05e4e8c15a72fa3146d73e3ef18041bf71577f1a7394345eb8fd20d64751', text: () => import('./assets-chunks/calendar_index_html.mjs').then(m => m.default)},
-    'styles-6BC26RXQ.css': {size: 36663, hash: 'jdun2m2S2Kw', text: () => import('./assets-chunks/styles-6BC26RXQ_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 6466, hash: '62b75a5a0f01422ad8d73c7d4f77b62ed1b3eabb0587b1598b6463138771b526', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 1051, hash: '8ce4aacae6347342f6e3e05056630a5c86d667eb8efdfae9cc1733314398eb84', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'calendar/index.html': {size: 133949, hash: '7015ea426ae72b008164f128118ebfe62371df2c85ebd68db118a0e43a8a4954', text: () => import('./assets-chunks/calendar_index_html.mjs').then(m => m.default)},
+    'styles-DRL3VIS4.css': {size: 43647, hash: 'LiEbCM4Vq7s', text: () => import('./assets-chunks/styles-DRL3VIS4_css.mjs').then(m => m.default)}
   },
 };
